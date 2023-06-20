@@ -115,8 +115,8 @@ function App() {
       "stateMutability": "view",
       "type": "function"
     }
-  ]; // Your ABI here
-  const address = '0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6';
+  ]; 
+  const address = '0x17F24D3b8Bc1150553b54Da30B4d993AcB889212';
 
   useEffect(() => {
     const initialize = async () => {
